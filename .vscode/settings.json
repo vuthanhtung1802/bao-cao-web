@@ -1,0 +1,17 @@
+{
+  "editor.fontFamily": "FIRA CODE, Consolas, 'Courier New', monospace",
+  "editor.fontSize": 16,
+  "files.autoSave": "onFocusChange",
+  "editor.tabSize": 2,
+  "editor.cursorSmoothCaretAnimation": "on",
+  "prettier.semi": true,
+  "prettier.tabWidth": 2,
+  "prettier.singleQuote": true,
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.formatOnSave": true,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "css.styleSheets": [
+    "node_modules/bootstrap/dist/css/bootstrap.min.css",
+    "src/**/*.scss"
+  ]
+}
